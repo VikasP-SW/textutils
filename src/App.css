@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.blank{
+  color:red;
+}
+.kaushan-font {
+  font-family: 'Kaushan Script', cursive;
+}
+.active-link {
+  color: #E61C69 !important;
+  font-weight: bold;
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.4);
+  border-bottom: 2px solid #E61C69;
+}
